@@ -40,7 +40,8 @@ p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
 
 /* excerpt */
 @media (min-device-width: 760px) { 
-  body { background-color: blue; }
+  p { font-size: 0px; }
+  a { font-size: 0.9em; }
 }
 
 /* hyperlinks */
