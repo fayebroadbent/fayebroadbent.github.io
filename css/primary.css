@@ -35,12 +35,12 @@ p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
 
 /* footer */
 .footer { margin-top: 1em; margin-bottom: 1em; text-align: center; }
-.footer a { color: #0000EE }
+.footer a { color: #e20e38 }
 .footer p { font-size: .8em; letter-spacing: .2em; color: #666; }
 
 /* hyperlinks */
 a { text-decoration: none; }
-.content a { color: #e20e38; }
+.content a { color: #0000EE; }
 
 /* lists */
 ul { list-style-type: none; margin-left: 2em; }
