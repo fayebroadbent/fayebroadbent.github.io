@@ -42,6 +42,7 @@ p { line-height: 1.45em; margin: .9em 0 0 0; font-size: 0.9em; color: #333; }
 @media (min-device-width: 760px) { 
   .excerpt p { font-size: 0px; }
   .excerpt a { font-size: 0.9em; }
+  body { background-color: blue; }
 }
 
 /* hyperlinks */
