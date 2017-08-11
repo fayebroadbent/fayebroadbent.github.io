@@ -37,3 +37,12 @@ Try not to deviate from the template unless you're feeling confident!
 <div class="mob-read-link">
   <p><a href="[https://www.example.com/insert_post_link_here/]">READ</a></p>
 </div class="mob-read-link">
+
+
+/* Paragraph text */
+
+<p>[INSERT PARAGRAPH TEXT HERE]</p>
+
+
+/* Image */
+<img src="http://www.example.com/images/insert_link.jpeg">
