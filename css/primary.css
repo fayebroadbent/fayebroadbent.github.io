@@ -14,6 +14,10 @@ table { border-collapse: collapse; border-spacing: 0; }
 .container { overflow: hidden; padding: 0 1em; max-width: 30em; margin: auto; }
 body { font: normal 100% Open Sans,Helvetica,sans-serif; padding: .6em; -webkit-font-smoothing: antialiased; }
 
+/* remove padding */
+.excerpt div { padding: 0px 0px 0px 0px; }
+.mod-read-link div { padding: 0px 0px 0px 0px; }
+
 /* excerpt - mobile */
 @media (max-device-width: 760px) { 
   .excerpt p { font-size: 0px; }
